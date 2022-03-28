@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ppa1u05a">
+    <output-path>$PROJECT_DIR$/out/artifacts/ppa1u05a</output-path>
+    <root id="archive" name="ppa1u05a.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="directory" name="src">
+        <element id="module-source" name="Ppa1u05a" />
+      </element>
+      <element id="module-output" name="Ppa1u05a" />
+    </root>
+  </artifact>
+</component>
